@@ -20,5 +20,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "metro-ui-css": "~3.0.6",
+    "react": "~0.13.3"
+  }
 }
